@@ -8,7 +8,8 @@ This repository serves as a platform to showcase my projects, scripts, and contr
 
 Through collaboration and continuous learning, I aspire to develop practical skills, leverage cutting-edge technologies, and gain hands-on experience in securing systems, networks, and applications. Together, let's unravel the intricacies of cybersecurity, share knowledge, and contribute to building a safer digital ecosystem.
 
-Join me on this exciting journey as we navigate the ever-changing world of cybersecurity and strive to make a meaningful impact. Feel free to explore the repository, provide feedback.
+Join me on this exciting journey as we navigate the ever-changing world of cybersecurity and strive to make a meaningful impact. Feel free to explore the repository, 
+and provide feedback.
 
 Together, let's strengthen our skills, promote cybersecurity awareness, and shape a more secure future!
 
